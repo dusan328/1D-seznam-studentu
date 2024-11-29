@@ -5,3 +5,4 @@
 - Zatím asi nikdo
 - Tady možná někdo bude
 - Zzz...
+-Dusan
