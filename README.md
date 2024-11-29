@@ -2,7 +2,6 @@
 
 ### Na seznamu jsou:
 
-- Zatím asi nikdo
-- Tady možná někdo bude
+- DUSAN
+- Tady možná někdo bude živy
 - Zzz...
--Dusan
